@@ -1,0 +1,15 @@
+body { 
+    font-family: 'Calibri Light', sans-serif;
+    font-size: 14px; 
+    text-align: center; 
+}
+
+.wrapper { 
+    width: 350px; 
+    padding: 20px; 
+}
+
+.todos_text_past {
+    color: red;
+}
+
